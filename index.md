@@ -15,3 +15,8 @@ Más texto en markdown, para enclarecer la relación de tamaño de un título y 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
