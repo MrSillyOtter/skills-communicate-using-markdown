@@ -6,3 +6,6 @@
 
 
 Más texto en markdown, para enclarecer la relación de tamaño de un título y el texto que le prosigue.
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
